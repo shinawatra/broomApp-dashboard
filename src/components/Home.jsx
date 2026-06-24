@@ -26,7 +26,7 @@ function Home() {
             Password
           </label>
           <input
-            type="text"
+            type="password"
             name="lastName"
             id="lastName"
             placeholder="Enter your last name"
