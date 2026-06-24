@@ -29,7 +29,7 @@ function Home() {
             type="password"
             name="lastName"
             id="lastName"
-            placeholder="Enter your last name"
+            placeholder="Enter your password"
             className="w-full p-2.5 border border-gray-300"
           />
         </div>
