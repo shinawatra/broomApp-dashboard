@@ -16,7 +16,7 @@ function Home() {
             type="text"
             name="email"
             id="email"
-            placeholder="Enter your email"
+            placeholder="Enter your email address"
             className="w-full p-2.5 border border-gray-300"
           />
         </div>
